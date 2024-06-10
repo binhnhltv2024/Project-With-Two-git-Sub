@@ -1,0 +1,6 @@
+[submodule "Be-repository"]
+	path = Be-repository
+	url = git@github.com:binhnhltv2024/BE-Repository.git
+[submodule "FE-Repository"]
+	path = FE-Repository
+	url = git@github.com:binhnhltv2024/FE-Repository.git
